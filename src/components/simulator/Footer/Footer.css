@@ -1,0 +1,25 @@
+.footer {
+  width: 106%;
+}
+
+button {
+  height: 45px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.green-button {
+  width: 68%;
+  background-color: #17aa8d;
+  float: left;
+  font-size: 120%;
+}
+
+.blue-button {
+  width: 30%;
+  background-color: #0b548b;
+  float: right;
+}

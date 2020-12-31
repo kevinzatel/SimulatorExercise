@@ -1,0 +1,24 @@
+.outerContainer {
+  margin: auto;
+  width: 40%;
+  padding: 40px 40px 0px 40px;
+  -webkit-box-shadow: 1px 1px 4px 0px rgba(176, 176, 176, 1);
+  -moz-box-shadow: 1px 1px 4px 0px rgba(176, 176, 176, 1);
+  box-shadow: 1px 1px 4px 0px rgba(176, 176, 176, 1);
+  background-color: #084f85;
+  height: 450px;
+  overflow: hidden;
+}
+
+.innerContainer {
+  background-color: #003b67;
+  height: 100%;
+  padding-top: 10px;
+  color: #fefcfa;
+}
+
+.content {
+  margin: auto;
+  width: 80%;
+  /* font-family: "Montserrat" !important; */
+}

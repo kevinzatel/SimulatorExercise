@@ -1,0 +1,20 @@
+.result {
+  background-color: #00355d;
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+  padding: 3%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.description {
+  margin: auto;
+}
+
+.total {
+  margin: auto;
+}
